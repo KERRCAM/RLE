@@ -26,7 +26,7 @@ public class Main {
                     consecChar = 1;
                 }
             }
-            //rle print code to go here
+            //rle print code to go here.
             prevChar = character;
             indPos = (indPos+1);
         }
