@@ -53,6 +53,7 @@ public class Main {
         Scanner textToTranslate = new Scanner(System.in);
         System.out.println("enter some text: ");
         String text = textToTranslate.next();
+        text = (text +'a');
         int textLength = text.length();
         textLength = textLength-1; //adjusts for corect index positions
         System.out.println(textLength);
