@@ -45,7 +45,7 @@ public class Main {
 
 }
 */
-//for loop version, cur vs next, index in array
+//for loop version, cur vs next, index in array - used for loop instead as while loop got too complicated
 public class Main {
     public static void main(String[] args) {
         int consecChar = 1;
